@@ -1,8 +1,3 @@
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h1 align="center">Hi 👋, I'm Ryan "Cam-tron" Cameron</h1>
 <h3 align="center">A stylish Fullstack Developer - CyberSecurity Analyst - AML KYC Analyst.</h3>
 
@@ -38,3 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camtron954&show_icons=true&locale=en&layout=compact" alt="camtron954" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camtron954&show_icons=true&locale=en" alt="camtron954" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
