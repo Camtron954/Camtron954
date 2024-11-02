@@ -34,7 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camtron954&show_icons=true&locale=en" alt="camtron954" /></p>
 
-# Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
