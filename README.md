@@ -1,3 +1,8 @@
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h1 align="center">Hi 👋, I'm Ryan "Cam-tron" Cameron</h1>
 <h3 align="center">A stylish Fullstack Developer - CyberSecurity Analyst - AML KYC Analyst.</h3>
 
