@@ -33,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camtron954&show_icons=true&locale=en&layout=compact" alt="camtron954" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camtron954&show_icons=true&locale=en" alt="camtron954" /></p>
+
+git remote add origin https://github.com/Camtron954/Camtron954.git
+git branch -M main
+git push -u origin main
