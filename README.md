@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan "Cam-tron" Cameron</h1>
-<h3 align="center">A stylish fullstack developer - and Actor/Artist.</h3>
+<h3 align="center">A stylish Fullstack Developer - CyberSecurity Analyst - AML KYC Analyst.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camtron954" alt="camtron954" /></a> </p>
 
