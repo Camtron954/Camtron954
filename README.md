@@ -1,4 +1,3 @@
-# blog-posts
 <h1 align="center">Hi 👋, I'm Ryan "Cam-tron" Cameron</h1>
 <h3 align="center">A stylish fullstack developer - and Actor/Artist.</h3>
 
