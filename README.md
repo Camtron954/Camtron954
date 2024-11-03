@@ -33,6 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camtron954&show_icons=true&locale=en&layout=compact" alt="camtron954" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camtron954&show_icons=true&locale=en" alt="camtron954" /></p>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
